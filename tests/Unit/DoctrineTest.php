@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AliReaza\Tests\DotEnv\Unit;
+namespace AliReaza\Tests\Doctrine\ORM\Unit;
 
 use PHPUnit\Framework\TestCase;
 
